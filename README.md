@@ -143,8 +143,3 @@ Possible extensions:
 ## 📜 License
 
 MIT License – free to use and modify.
-
----
-
-👉 Do you also want me to create a **`requirements.txt` and sample `train_dqn.py`** so that someone cloning your repo can literally run it without editing?
-
