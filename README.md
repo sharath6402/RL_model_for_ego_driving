@@ -56,10 +56,9 @@ The environment uses **Matplotlib** to visualize:
 .
 ├── lane_merge_env.py      # Custom Gymnasium environment
 ├── train_dqn.py           # Training script with Stable-Baselines3 DQN
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-└── docs/
-    └── sample_animation.gif   # Example animation (for GitHub preview)
+├── requirements.txt      
+├── README.md              
+
 ```
 
 ---
